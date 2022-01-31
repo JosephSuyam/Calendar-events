@@ -24,5 +24,6 @@ After cloning the project run the commands
 
 ```bash
 composer i
+php artisan migrate
 npm i
 ```
